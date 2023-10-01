@@ -79,7 +79,7 @@ Bending stress=10lbs/in^2
 ## Future-proofing
 A folding carry arm design allows the rack's arms to drop out of the way when not in use
 A system that secures and protects bikes for safer travel
-Extendable components to allow easy loading, unloading and overall              	      management of bikes 
+Extendable components to allow easy loading, unloading and overall management of bikes 
 ![image](https://github.com/fsalaita/Portfolio/assets/146680465/daa29fdf-49fe-4a2e-838f-94ec7c672738)
 
 
