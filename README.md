@@ -82,8 +82,11 @@ A system that secures and protects bikes for safer travel
 Extendable components to allow easy loading, unloading, and overall management of bikes 
 
 ## Contributors
+
 Fares Salaita
+
 Eric Baldwin
+
 Austin Bray
 
 
