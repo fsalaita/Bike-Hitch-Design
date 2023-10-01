@@ -71,15 +71,18 @@ Bending stress: My/I
 	Y=Centroid
 	 I=Moment of inertia
 	Y=(18*2*1)+(13*2*35)+(32+*2*18)/(18*2+13*32*2)=16.65in
-	Ixx’=bh^3/12 + b2h2^3/12 + A1y1^2 + b3h3^3/12 + A2y2^2= 1         082.5 in^4
+	Ixx’=bh^3/12 + b2h2^3/12 + A1y1^2 + b3h3^3/12 + A2y2^2= 1082.5 in^4
 
 Bending stress=10lbs/in^2
 ![image](https://github.com/fsalaita/Portfolio/assets/146680465/da872974-3347-4a66-9f14-d4028dbf4d6c)
 
 ## Future-proofing
 A folding carry arm design allows the rack's arms to drop out of the way when not in use
+
 A system that secures and protects bikes for safer travel
-Extendable components to allow easy loading, unloading and overall management of bikes 
+
+Extendable components to allow easy loading, unloading, and overall management of bikes 
+
 ![image](https://github.com/fsalaita/Portfolio/assets/146680465/daa29fdf-49fe-4a2e-838f-94ec7c672738)
 
 
