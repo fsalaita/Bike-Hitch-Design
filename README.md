@@ -13,12 +13,12 @@ Hitch rack designs can carry bikes and can be adapted to carry skis, snowboards,
 
 ## Walkthrough
 1. Material selection 
-	I. Initial considerations where Aluminum and Steel, due to their relative properties. Aluminum is typically not as strong as steel, but it is also almost one-third of the weight. 
+Initial considerations where Aluminum and Steel, due to their relative properties. Aluminum is typically not as strong as steel, but it is also almost one-third of the weight. 
 2. Design
-	I. Dimensions and overall design were based of initial concepts
-	II. Sketches were made 3D using Autodesk Inventor
+Dimensions and overall design were based of initial concepts.
+Sketches were made 3D using Autodesk Inventor.
 3. Calculation and finishing
-	I. Equations, concepts, and constants were taken from notes and Shigley's Mechanical Engineering Design 10th Edition.
+Equations, concepts, and constants were taken from notes and Shigley's Mechanical Engineering Design 10th Edition.
 ![image](https://github.com/fsalaita/Portfolio/assets/146680465/a13fe782-0df4-40c6-95d1-c2da2843338a)
 
 ## Buckling Analysis
