@@ -86,6 +86,11 @@ Extendable components to allow easy loading, unloading, and overall management o
 ![image](https://github.com/fsalaita/Portfolio/assets/146680465/daa29fdf-49fe-4a2e-838f-94ec7c672738)
 
 
+## Contributors
+Fares Salaita
+Eric Baldwin
+Austin Bray
+![image](https://github.com/fsalaita/HitchBikeRackDesign/assets/146680465/6ee9611c-c196-4938-be0a-54f7a68de34a)
 
 
 
