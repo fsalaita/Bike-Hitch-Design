@@ -20,7 +20,7 @@ II. Sketches were made 3D using Autodesk Inventor
 Calculation and finishing
 l. Equations, concepts and constants were taken from notes and Shigley's                    	   Mechanical Engineering Design 10th Edition
 
-![image](https://github.com/fsalaita/Portfolio/assets/146680465/6bdf7f0e-2fc0-411c-802f-4d68de701254)
+![image](https://github.com/fsalaita/Portfolio/assets/146680465/de817b85-c6d3-4d75-8f0d-8c8b74c49690)
 
 ## Buckling Analysis
 For Al 6061:
