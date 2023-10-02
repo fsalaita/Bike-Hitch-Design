@@ -64,7 +64,7 @@ Shear, σ = F/(n*A)
 
 n = number of bolts in vertical alignment
 
-A = t*d,
+A = t*d
 
 t = sum of thickness of walls
 
@@ -102,7 +102,7 @@ I=Moment of inertia
 
 Y=(18 * 2 * 1)+(13 * 2 * 35)+(32 * 2 * 18)/(18 * 2+13 * 32 * 2)=16.65in
 
-Ixx’=bh<sup>3</sup>/12 + b2h2<sup>3</sup>/12 + A1y1<sup>2</sup> + b3h3<sup>3</sup>/12 + A2y2<sup>2</sup>= 1082.5 in^4
+Ixx’=bh<sup>3</sup>/12 + b2h2<sup>3</sup>/12 + A1y1<sup>2</sup> + b3h3<sup>3</sup>/12 + A2y2<sup>2</sup>= 1082.5 in<sup>4</sup>
 
 Bending stress=10lbs/in<sup>2</sup>
 
