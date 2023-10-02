@@ -15,7 +15,7 @@ Hitch rack designs can carry bikes and can be adapted to carry skis, snowboards,
 ## Walkthrough
 **Material selection**
 
-Initial considerations where Aluminum and Steel, due to their relative properties. Aluminum is typically not as strong as steel, but it is also almost one-third of the weight. 
+Initial considerations were Aluminum and Steel, due to their relative properties. Aluminum is typically not as strong as steel, but it is also almost one-third of the weight. 
 
 **Design**
 
