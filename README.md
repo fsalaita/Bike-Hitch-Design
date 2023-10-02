@@ -35,7 +35,7 @@ Equations, concepts, and constants were taken from notes and Shigley's Mechanica
 For Al 6061:
 
 	E = 10.4 Mpsi = 10.4E6 psi
-	σ<sub>allow</sub> = 40,000 psi
+	σ <sub>allow</sub> = 40,000 psi
  
 With the vertical beam:
 
