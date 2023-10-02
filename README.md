@@ -36,7 +36,7 @@ For Al 6061:
 
 	E = 10.4 Mpsi = 10.4E6 psi
  
-	σ allow = 40,000 psi
+	σ<sub>allow</sub> = 40,000 psi
  
 With the vertical beam:
 
@@ -50,7 +50,7 @@ With the vertical beam:
  
 	Eccentricity of load, e = 11.25 in
  
-Critical Load, P<sub>cr</sub> = π <sup>2</sup> EI/L <sup>2</sup>  = (π <sup>2</sup> * 10.4E6 * 0.057)/(36) <sup>2</sup> =4,514.4 lb.
+Critical Load, P<sub>cr</sub> = π<sup>2</sup>EI/L<sup>2</sup>  = (π<sup>2</sup>*10.4E6*0.057)/(36)<sup>2</sup>=4,514.4 lb.
 
 Using a non-dimensional eccentric buckling chart: P/P<sub>cr</sub> = 0.1
 
