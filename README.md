@@ -32,13 +32,13 @@ Equations, concepts, and constants were taken from notes and Shigley's Mechanica
 
 ## Buckling Analysis
 
-For Al 6061:__
+For Al 6061:
 
 	E = 10.4 Mpsi = 10.4E6 psi__
  
 	σ allow = 40,000 psi__
  
-With the vertical beam:__
+With the vertical beam:
 
 	Area Moment of Inertia, I = 0.057 in4__
  
@@ -50,9 +50,9 @@ With the vertical beam:__
  
 	Eccentricity of load, e = 11.25 in__
  
-Critical Load, Pcr = π ^2^ EI/L ^2^  = (π ^2^ * 10.4E6 * 0.057)/(36) ^2^ =4,514.4 lb.__
+Critical Load, Pcr = π ^2^ EI/L ^2^  = (π ^2^ * 10.4E6 * 0.057)/(36) ^2^ =4,514.4 lb.
 
-Using non-dimensional eccentric buckling chart: P/P~cr~ = 0.1__
+Using non-dimensional eccentric buckling chart: P/P~cr~ = 0.1
 
 	P= 0.1*4,514.4 = 451.4 lb.__
  
