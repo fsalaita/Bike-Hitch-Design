@@ -43,8 +43,8 @@ With the vertical beam:__
 Critical Load, Pcr = π ^2^ EI/L ^2^  = (π ^2^ * 10.4E6 * 0.057)/(36) ^2^ =4,514.4 lb.__
 Using non-dimensional eccentric buckling chart: P/P~cr~ = 0.1__
 	P= 0.1*4,514.4 = 451.4 lb.__
-With Safety Factor of 4 for Dynamic Loading: P~allow~ = 451.4/3.0 = 115 lb.__
-![image](https://github.com/fsalaita/HitchBikeRackDesign/assets/146680465/68fa4369-43b9-4e68-b8e5-a2b4a6be2b02)
+With Safety Factor of 4 for Dynamic Loading: P~allow~ = 451.4/3.0 = 115 lb.
+
 
 
 ## Shear Analysis on Bolts
