@@ -31,19 +31,19 @@ Equations, concepts, and constants were taken from notes and Shigley's Mechanica
 
 
 ## Buckling Analysis
-For Al 6061:
-	E = 10.4 Mpsi = 10.4E6 psi
-	σ allow = 40,000 psi
-With the vertical beam:
-	Area Moment of Inertia, I = 0.057 in4
-	Area, A = 4*0.125 = 0.5 in2
-	Distance to neutral axis, c = 0.5 in
-	Length of beam, L = 36 in
-	Eccentricity of load, e = 11.25 in
-Critical Load, Pcr = π ^2^ EI/L ^2^  = (π ^2^ * 10.4E6 * 0.057)/(36) ^2^ =4,514.4 lb.
-Using non-dimensional eccentric buckling chart: P/P~cr~ = 0.1
-	P= 0.1*4,514.4 = 451.4 lb.
-With Safety Factor of 4 for Dynamic Loading: P~allow~ = 451.4/3.0 = 115 lb. 
+For Al 6061:  
+	E = 10.4 Mpsi = 10.4E6 psi  
+	σ allow = 40,000 psi  
+With the vertical beam:  
+	Area Moment of Inertia, I = 0.057 in4  
+	Area, A = 4*0.125 = 0.5 in2  
+	Distance to neutral axis, c = 0.5 in  
+	Length of beam, L = 36 in  
+	Eccentricity of load, e = 11.25 in  
+Critical Load, Pcr = π ^2^ EI/L ^2^  = (π ^2^ * 10.4E6 * 0.057)/(36) ^2^ =4,514.4 lb.  
+Using non-dimensional eccentric buckling chart: P/P~cr~ = 0.1  
+	P= 0.1*4,514.4 = 451.4 lb.  
+With Safety Factor of 4 for Dynamic Loading: P~allow~ = 451.4/3.0 = 115 lb.   
 ![image](https://github.com/fsalaita/HitchBikeRackDesign/assets/146680465/68fa4369-43b9-4e68-b8e5-a2b4a6be2b02)
 
 
