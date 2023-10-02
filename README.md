@@ -34,8 +34,8 @@ Equations, concepts, and constants were taken from notes and Shigley's Mechanica
 
 For Al 6061:
 
-	E = 10.4 Mpsi = 10.4E6 psi
-	σ<sub>allow</sub>= 40,000 psi
+E = 10.4 Mpsi = 10.4E6 psi
+σ<sub>allow</sub>= 40,000 psi
  
 With the vertical beam:
 
@@ -82,9 +82,9 @@ Bending stress: My/I
 	Y=Centroid
 	I=Moment of inertia
 	Y=(18*2*1)+(13*2*35)+(32*2*18)/(18*2+13*32*2)=16.65in
-	Ixx’=bh^3/12 + b2h2^3/12 + A1y1^2 + b3h3^3/12 + A2y2^2= 1082.5 in^4
+	Ixx’=bh<sup>3</sup>/12 + b2h2<ssup>3</sup>/12 + A1y1<sup>2</sup> + b3h3<sup>3</sup?/12 + A2y2<sup>2</sup>= 1082.5 in^4
 
-Bending stress=10lbs/in<sup>^</sup>2
+Bending stress=10lbs/in<sup>2</sup>
 
 
 
