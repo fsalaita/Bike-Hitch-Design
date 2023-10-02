@@ -39,11 +39,11 @@ E = 10.4 Mpsi = 10.4E6 psi
  
 With the vertical beam:
 
-	Area Moment of Inertia, I = 0.057 in4
-	Area, A = 4*0.125 = 0.5 in<sup>2</sup>
-	Distance to neutral axis, c = 0.5 in
-	Length of beam, L = 36 in
-	Eccentricity of load, e = 11.25 in
+Area Moment of Inertia, I = 0.057 in4
+Area, A = 4*0.125 = 0.5 in<sup>2</sup>
+Distance to neutral axis, c = 0.5 in
+Length of beam, L = 36 in
+Eccentricity of load, e = 11.25 in
  
 Critical Load, P<sub>cr</sub> = π<sup>2</sup>EI/L<sup>2</sup>  = (π<sup>2</sup> * 10.4E6 * 0.057)/(36)<sup>2</sup>=4,514.4 lb.
 
@@ -56,33 +56,33 @@ With a Safety Factor of 4 for Dynamic Loading: P<sub>cr</sub> = 451.4/3.0 = 115 
 
 
 ## Shear Analysis on Bolts
-	Shear, σ = F/(n*A)
-	n = number of bolts in vertical alignment
-	A = t*d,
-	t = sum of thickness of walls
-	d = diameter of bolts
-	Shear stress on bolts in top bracket: 
-		σ=100lb/(2*.5*.375) = 266.67psi/bolt
-	Shear stress on bolts in bottom bracket:
-		σ= (100+2.43)/(3*.5*.375) = 182.1psi/bolt 
+Shear, σ = F/(n*A)
+n = number of bolts in vertical alignment
+A = t*d,
+t = sum of thickness of walls
+d = diameter of bolts
+Shear stress on bolts in top bracket: 
+σ=100lb/(2*.5*.375) = 266.67psi/bolt
+Shear stress on bolts in bottom bracket:
+σ= (100+2.43)/(3*.5*.375) = 182.1psi/bolt 
 
 ## Fatigue Analysis
 Number of loads allowable before failure:
 
-	N = [(S’f/σ’f)(1/b)]/2 , where:
-	S’f = fatigue strength = 40,000 psi
-	σ’f = fatigue strength coefficient =  90,000 psi
-	b = -[log(σ’f)/(S’e)]
-	S’e = 0.5*S’f = 0.05*40,000 = 2000 psi
-	N = [(40,000/90,000)(1/(-.02))]/2 = 1.6E14 = 160,000,000,000,000 cycles
+N = [(S’f/σ’f)(1/b)]/2 , where:
+S’f = fatigue strength = 40,000 psi
+σ’f = fatigue strength coefficient =  90,000 psi
+b = -[log(σ’f)/(S’e)]
+S’e = 0.5*S’f = 0.05*40,000 = 2000 psi
+N = [(40,000/90,000)(1/(-.02))]/2 = 1.6E14 = 160,000,000,000,000 cycles
 
 ## Stress Analysis
 Bending stress: My/I 
 
-	Y=Centroid
-	I=Moment of inertia
-	Y=(18*2*1)+(13*2*35)+(32*2*18)/(18*2+13*32*2)=16.65in
-	Ixx’=bh<sup>3</sup>/12 + b2h2<ssup>3</sup>/12 + A1y1<sup>2</sup> + b3h3<sup>3</sup?/12 + A2y2<sup>2</sup>= 1082.5 in^4
+Y=Centroid
+I=Moment of inertia
+Y=(18*2*1)+(13*2*35)+(32*2*18)/(18*2+13*32*2)=16.65in
+Ixx’=bh<sup>3</sup>/12 + b2h2<sup>3</sup>/12 + A1y1<sup>2</sup> + b3h3<sup>3</sup?/12 + A2y2<sup>2</sup>= 1082.5 in^4
 
 Bending stress=10lbs/in<sup>2</sup>
 
