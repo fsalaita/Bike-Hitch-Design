@@ -82,7 +82,7 @@ Bending stress=10lbs/in^2
 * Extendable components to allow easy loading, unloading, and overall management of bikes.
 
 ## Contributors
-* **Fares Salaita** - [fsalaita](github.com/fsalaita/)
+* **Fares Salaita** [fsalaita](github.com/fsalaita/)
 * **Eric Baldwin**
 * **Austin Bray**
 
