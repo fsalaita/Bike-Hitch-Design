@@ -50,13 +50,13 @@ With the vertical beam:
  
 	Eccentricity of load, e = 11.25 in
  
-Critical Load, P<sub>cr</sub> = π ^2^ EI/L ^2^  = (π ^2^ * 10.4E6 * 0.057)/(36) ^2^ =4,514.4 lb.
+Critical Load, P<sub>cr</sub> = π <sup>2</sup> EI/L <sup>2</sup>  = (π <sup>2</sup> * 10.4E6 * 0.057)/(36) <sup>2</sup> =4,514.4 lb.
 
-Using a non-dimensional eccentric buckling chart: P/P~cr~ = 0.1
+Using a non-dimensional eccentric buckling chart: P/P<sub>cr</sub> = 0.1
 
 	P= 0.1*4,514.4 = 451.4 lb.
  
-With a Safety Factor of 4 for Dynamic Loading: P~allow~ = 451.4/3.0 = 115 lb.
+With a Safety Factor of 4 for Dynamic Loading: P<sub>cr</sub> = 451.4/3.0 = 115 lb.
 
 
 
